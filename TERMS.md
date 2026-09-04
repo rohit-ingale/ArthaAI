@@ -47,6 +47,8 @@ Artha integrates third-party services including Firebase (Authentication, Firest
 
 Artha is provided "as is" and "as available," without warranties of any kind, express or implied, including fitness for a particular purpose or non-infringement. We do not guarantee that SMS parsing, OCR, price feeds, or AI-generated insights will be complete, accurate, or uninterrupted. To the maximum extent permitted by law, Artha and its developer are not liable for any indirect, incidental, or consequential damages, or for financial decisions made based on information from the app.
 
+Your financial data is stored only on your device and is not held on Artha's servers (see [PRIVACY.md](./PRIVACY.md)), so a compromise of our infrastructure would not by itself expose that data. This does not make your data invulnerable: no method of on-device storage is completely secure, particularly if your device is lost, stolen, rooted, or otherwise compromised, and you are responsible for securing your device and any optional cloud backup passphrase. Nothing in this section limits liability, or excludes consumer rights, to the extent such limitation or exclusion is not permitted by applicable law.
+
 ## 9. Termination
 
 We may suspend or terminate access to the app for violations of these Terms. You may stop using the app and delete it at any time; see [PRIVACY.md](./PRIVACY.md) for how to request deletion of cloud-stored data.
