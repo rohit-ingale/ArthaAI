@@ -1,6 +1,6 @@
 # Artha AI — Terms of Service
 
-**Effective date:** September 4, 2026
+**Effective date:** October 25, 2026
 
 ## 1. Acceptance of Terms
 
@@ -10,7 +10,7 @@ These Terms of Service ("Terms") are a legally binding agreement between you and
 
 ## 2. Eligibility
 
-You must be at least 18 years old, or have attained the age of majority under the Indian Majority Act, 1875, to use Artha. By using the App you represent that you meet this requirement and that you have the legal capacity to enter into this agreement. Artha is not directed to, and must not be used by, children under 13; see [PRIVACY.md](./PRIVACY.md).
+You must be at least 18 years old, and have attained the age of majority under the Indian Majority Act, 1875, to use Artha. The App asks you to confirm this when you first sign in. By confirming, and by using the App, you represent that you meet this requirement and that you have the legal capacity to enter into this agreement. Artha must not be used by anyone under 18; see [PRIVACY.md](./PRIVACY.md).
 
 ## 3. Geographic scope
 
@@ -74,7 +74,7 @@ You agree to indemnify, defend, and hold harmless Artha's developer from and aga
 
 ## 12. Termination
 
-We may suspend or terminate your access to the App at our sole discretion, with or without notice, for violation of these Terms, suspected fraud or misuse, legal or regulatory requirements, or discontinuation of the service, without liability to you. You may stop using the App and delete it at any time; see [PRIVACY.md](./PRIVACY.md) for how to request deletion of the limited account/diagnostic data we hold.
+We may suspend or terminate your access to the App at our sole discretion, with or without notice, for violation of these Terms, suspected fraud or misuse, legal or regulatory requirements, or discontinuation of the service, without liability to you. You may stop using the App at any time and permanently delete your account from **Settings → Delete account**; see [PRIVACY.md](./PRIVACY.md) for exactly what is deleted, and for deleting your optional cloud backup.
 
 ## 13. Grievance redressal
 
@@ -82,8 +82,9 @@ If you have a complaint or grievance regarding the App, you may contact:
 
 **Grievance Contact:** Rohit Ingale
 **Email:** rohitingale15@gmail.com
+**In the app:** Settings → About → Privacy & grievance contact
 
-We will acknowledge grievances within a reasonable time and endeavor to resolve them promptly. This does not limit your right to approach any consumer forum, the Data Protection Board of India, or any other competent authority under applicable law.
+We will acknowledge grievances within 7 days and aim to resolve them within 30 days. This does not limit your right to approach any consumer forum, the Data Protection Board of India, or any other competent authority under applicable law.
 
 ## 14. Governing law and dispute resolution
 
